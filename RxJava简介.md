@@ -10,4 +10,4 @@
 
 ​	RxJava 2 的思维导图如下：
 
-![RxJava 2.x](pic\RxJava 2.x.png)
+![RxJava 2.x](https://github.com/aheven/RxJavaLearning/blob/master/pic/RxJava%202.x.png)
