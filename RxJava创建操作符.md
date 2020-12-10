@@ -2,7 +2,7 @@
 
 ​	操作符是RxJava的重要组成部分。RxJava的操作符大致可以按照下图分类：
 
-![RxJava常用操作符](pic\RxJava常用操作符.png)
+![RxJava常用操作符](https://github.com/aheven/RxJavaLearning/blob/master/pic/RxJava常用操作符.png)
 
 ​	RxJava 的创建操作符主要包括如下内容：
 
