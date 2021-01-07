@@ -17,3 +17,5 @@
 ##### [七、RxJava合并操作符与连接操作符](RxJava合并操作符与连接操作符.md)
 
 ##### [八、RxJava的背压](RxJava的背压.md)
+
+##### [九、RxJava Disposable和Transformer的使用](RxJava Disposable和Transformer的使用.md)
