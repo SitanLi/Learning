@@ -18,4 +18,4 @@
 
 ##### [八、RxJava的背压](RxJava的背压.md)
 
-##### [九、RxJava Disposable和Transformer的使用](RxJava&nbsp;&nbsp;Disposable和Transformer的使用.md)
+##### [九、RxJava Disposable和Transformer的使用](RxJava%20Disposable和Transformer的使用.md)
