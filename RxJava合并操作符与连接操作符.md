@@ -64,9 +64,9 @@ RxJava 的连接操作符，主要是 ConnectableObservable 所使用的操作�
 
    zip 操作符相对于 merge 操作符，除发射数据外，还会进行合并操作。还有一点需要注意的是，BiFunction 相当于一个合并函数，并不一定要返回 Integer 类型，可以根据业务需要返回合适的类型。
 
-##### combineLastest 和 join
+##### combineLatest 和 join
 
-combineLastest 操作符的行为类似于 zip，但是只有当原始的 Observable 中的每一个都发射了一条数据时 zip 才发射数据，而 combineLastest 则是当原始的 Observable 中任意一个发射了数据时就发射一条数据。当原始 Observables 的任何一个发射了一条数据时，combineLastest 使用一个函数结合它们最近发射的数据，然后发射这个函数的返回值。
+combineLatest 操作符的行为类似于 zip，但是只有当原始的 Observable 中的每一个都发射了一条数据时 zip 才发射数据，而 combineLatest 则是当原始的 Observable 中任意一个发射了数据时就发射一条数据。当原始 Observables 的任何一个发射了一条数据时，combineLatest 使用一个函数结合它们最近发射的数据，然后发射这个函数的返回值。
 
 ```java
 public void helloRxJava2() {
