@@ -23,3 +23,5 @@
 ##### [十、RxJava的并行编程](RxJava的并行编程.md)
 
 ##### [十一、RxBinding的使用](RxBinding的使用.md)
+
+##### [十二、RxAndroid和Retrofit的使用](RxAndroid和Retrofit的使用.md)
