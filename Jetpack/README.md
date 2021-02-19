@@ -19,3 +19,6 @@
 ##### [九、browser组件](browser组件.md)
 
 ##### [十、cardview组件](cardview组件.md)
+
+##### [十一、collection组件](collection组件.md)
+
