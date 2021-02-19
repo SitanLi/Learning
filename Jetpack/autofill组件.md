@@ -53,3 +53,15 @@ dependencies {
 | AUTOFILL_HINT_USERNAME                            | 自动填充用户名                         |
 
 `generateSmsOtpHintForCharacterPosition()`：该方法指示此试图可以用SMS一次性密码的第几个字符/数字自动填充。
+
+#### 版本更新
+
+##### 版本1.1.0
+
+- 添加一组 API 以支持构建自动填充内嵌建议（Android 11 中引入的一项新功能）。如需了解详情，请参阅 [IME 自动填充指南](https://developer.android.com/guide/topics/text/ime-autofill)。
+- 推出了 v1 界面模板 [inlineSuggestionUi](https://developer.android.com/reference/androidx/autofill/inline/v1/InlineSuggestionUi)，以帮助 IME 开发者指定内嵌建议样式，并帮助自动填充提供程序构建内嵌建议内容。
+
+##### 版本1.0.0
+
+- 自动填充模块的首个稳定版本。
+- 添加一组标准的受支持自动填充提示常量，这些常量应被所有自动填充服务支持。
